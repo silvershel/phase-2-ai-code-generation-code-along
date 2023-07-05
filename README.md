@@ -1,3 +1,5 @@
+# AI Code Generation Code-along
+
 ## Learning Goals
 
 - Use JSDoc to write function documentation.
