@@ -1,0 +1,21 @@
+{
+  "name": "todo-update-name",
+  "version": "1.0.0",
+  "description": "TODO: Add description",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "author": "Flatiron School",
+  "license": "See LICENSE.md file",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "chai": "^4.3.4",
+    "jsdoc": "^4.0.2",
+    "mocha": "^9.1.3",
+    "mocha-jsdom": "^2.0.0",
+    "mocha-multi": "^1.1.5",
+    "sinon": "^12.0.1"
+  }
+}
